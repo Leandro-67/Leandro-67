@@ -1,7 +1,6 @@
 ### Hello 👋
 
 
-**Leandro-67/Leandro-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears in your GitHub profile.
 
 Here are some ideas to get you started:
 
